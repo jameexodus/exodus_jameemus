@@ -1,2 +1,2 @@
 Lets look at my first file!
-I am going to add some info
+Removing line 2 and adding this one
