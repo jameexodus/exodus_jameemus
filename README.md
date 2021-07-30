@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jameexodus
+- 👀 I’m interested in programming and networking
+- 🌱 I’m currently learning python as my main language
+- 💞️ I’m looking to collaborate on anything!
